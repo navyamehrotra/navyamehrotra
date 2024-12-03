@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navyamehrotra
 - 👀 I’m interested in reading books, coding in python
-- 🌱 I’m currently learning python(beginners)
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new and interesting projects for beginners
 - 📫 How to reach me:
 Email: navya.mehrotra45@gmail.com
